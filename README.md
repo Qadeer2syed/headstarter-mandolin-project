@@ -1,7 +1,14 @@
 ### Task: Automate the Prior Authorization (PA) Form Filling Workflow
 
 ---
+### Instructions to run the project
+Add your Google API key in line 15 of MedFill file.
 
+To launch the Streamlit app, run:
+
+```bash
+streamlit run MedFill.py
+```
 ### **Purpose of this assignment**
 
 This task is designed to assess the candidate's skills, creativity, and problem-solving abilities in a practical setting. Specifically, we are looking for:
