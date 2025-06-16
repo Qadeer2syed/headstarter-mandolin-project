@@ -9,6 +9,14 @@ To launch the Streamlit app, run:
 ```bash
 streamlit run MedFill.py
 ```
+
+### Future Enhancements
+Use React to enhance UI.
+
+Generate a report on missing information for the fields.
+
+Generate a mechanism to work with forms with non-acro fields.
+
 ### **Purpose of this assignment**
 
 This task is designed to assess the candidate's skills, creativity, and problem-solving abilities in a practical setting. Specifically, we are looking for:
